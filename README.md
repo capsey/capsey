@@ -1,16 +1,18 @@
 # 🎯 About
-Hi, my name is Caps Lock. I am self-taught programmer. I have worked on C# (Unity Engine), Java (FabricMC), GDScript (Godot Engine), C, Python and Rust. Just under this section you can find contact information and some interesting repos to look at.
+Hi! I am Caps Lock - like one on your keyboard :)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=capsey&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
+[![capsey's GitHub stats (Dark Theme)](https://github-readme-stats.vercel.app/api?username=capsey&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/capsey#gh-dark-mode-only)
+[![capsey's GitHub stats (Light Theme)](https://github-readme-stats.vercel.app/api?username=capsey&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/capsey#gh-light-mode-only)
 
 # 📬 Contact
 1. **Itch.io**: [capsey.itch.io](https://capsey.itch.io/)
 2. **Twitter**: [@capsey_](https://twitter.com/capsey_)
-3. **Telegram**: [@capsey](https://t.me/capsey)
-4. **VK**: [@capsey](https://vk.com/capsey)
-5. **Email**: lockedcapsey@gmail.com
+3. **Email**: lockedcapsey@gmail.com
 
 <!---
-capsey/capsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ _._     _,-'""`-._        _________  ____  ________  __  __
+(,-.`._,'(       |\`-/|   / ___/ __ `/ __ \/ ___/ _ \/ / / /
+    `-.-' \ )-`( , o o)  / /__/ /_/ / /_/ (__  )  __/ /_/ / 
+          `-    \`_`"'-  \___/\__,_/ .___/____/\___/\__, /  
+                                  /_/              /____/   
 --->
